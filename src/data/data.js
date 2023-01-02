@@ -5,7 +5,8 @@ const data = [
     { id: 4, name: "Item 4", value: 40 },
     { id: 5, name: "Item 5", value: 50 },
     { id: 6, name: "Item 6", value: 60 },
-  ];
-  
-  export default data;
-  
+    { id: 7, name: "Item 7", value: 70 },
+
+];
+
+export default data;
